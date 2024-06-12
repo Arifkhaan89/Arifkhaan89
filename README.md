@@ -32,7 +32,7 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 
 - Email: arifkhan@example.com
 - LinkedIn: 
-- GitHub: [github.com/yourusername](https://github.com/Arifkhaan89
+- GitHub: https://github.com/Arifkhaan89
 
 ## 💬 Let's Collaborate
 
